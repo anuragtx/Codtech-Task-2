@@ -1,6 +1,6 @@
 # Weather Dashboard Project
 
-Name: Anurag Tiwari
+Name: Anurag Ganesh Tiwari
 
 Company: CODTECH IT SOLUTIONS PVT.LTD
 
